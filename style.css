@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(66, 61, 61);
+}
+
+
+
+.container{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(243, 243, 181);
+    align-items: center;
+    border-radius: 10px;
+    margin: 200px 500px;
+    padding: 130px 20px;
+    margin-top: 70px;
+    position: absolute;
+}
+
+.img
+{
+position: relative;
+height: 100%;
+width: 100%;
+margin: -110px 0px;
+padding: 0px 0px;
+margin-bottom: auto;
+
+}
+
+p{
+    font-size:14px ;
+}
